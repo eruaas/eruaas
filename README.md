@@ -8,8 +8,19 @@ Formado em **Análise e Desenvolvimento de Sistemas (ADS)**, em transição de c
 Trago da minha trajetória anterior **comunicação, relacionamento com pessoas e entendimento de processos administrativos/financeiros**, que aplico também ao pensar na lógica por trás dos sistemas que desenvolvo.
 
 <div align="center">
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eruaas&show_icons=true&count_private=true&hide_border=true&title_color=0000ff&icon_color=0000ff&text_color=c9d1d9&bg_color=0d1117" alt="Ernesto Ruas github stats" /><img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eruaas&layout=compact&hide_border=true&title_color=0000ff&text_color=ff91a4&bg_color=0d1117" />
+  <table>
+    <tr>
+      <td>
+        <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=eruaas&show_icons=true&count_private=true&hide_border=true&title_color=0000ff&icon_color=0000ff&text_color=c9d1d9&bg_color=0d1117" alt="Ernesto Ruas github stats" />
+      </td>
+      <td>
+        <img width="350px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eruaas&layout=compact&hide_border=true&title_color=0000ff&text_color=ff91a4&bg_color=0d1117" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br />
 
 <div align="center"> 
   <a href="mailto:eruaas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
