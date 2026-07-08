@@ -7,13 +7,13 @@ Formado em **Análise e Desenvolvimento de Sistemas (ADS)**, em transição de c
 
 Trago da minha trajetória anterior **comunicação, relacionamento com pessoas e entendimento de processos administrativos/financeiros**, que aplico também ao pensar na lógica por trás dos sistemas que desenvolvo.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eruaas&show_icons=true&count_private=true&hide_border=true&title_color=0000ff&icon_color=0000ff&text_color=c9d1d9&bg_color=0d1117" alt="Ernesto Ruas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eruaas&layout=compact&hide_border=true&title_color=0000ff&text_color=ff91a4&bg_color=0d1117" />
+<div align="center">
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eruaas&show_icons=true&count_private=true&hide_border=true&title_color=0000ff&icon_color=0000ff&text_color=c9d1d9&bg_color=0d1117" alt="Ernesto Ruas github stats" /><img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eruaas&layout=compact&hide_border=true&title_color=0000ff&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
 <div align="center"> 
-<a href = "mailto:eruaas@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%25500?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ernesto-ruas-134043a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="mailto:eruaas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ernesto-ruas-134043a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ### 🚀 Principais skills
